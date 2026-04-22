@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name=".org.eclipse.egit.core.cmp" target="" />
+      <module name="Chap01" target="" />
+      <module name="Chap02" target="" />
+      <module name="Chap02_2" target="" />
+      <module name="Chap03" target="" />
+      <module name="Chap04" target="" />
+      <module name="Practice" target="" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
