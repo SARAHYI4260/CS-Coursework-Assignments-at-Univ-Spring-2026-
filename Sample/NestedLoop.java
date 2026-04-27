@@ -1,4 +1,4 @@
-package preparingTest;
+package Sample;
 
 public class NestedLoop {
     public static void main(String[] args) {
